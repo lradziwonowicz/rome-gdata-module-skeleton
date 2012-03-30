@@ -23,6 +23,6 @@ A module for ROME to parse author thumbnail from Atom feed.
 	
 Helpful links:
 1. [ROME](https://rometools.jira.com/wiki/display/ROME/Home)
-1. [Custom Modules with ROME](http://sujitpal.blogspot.de/2007/10/custom-modules-with-rome.html)
-1. [ROME Modules source code](https://rometools.jira.com/source/browse/MODULES/trunk/src/main/java/org/rometools/feed/module)
+2. [Custom Modules with ROME](http://sujitpal.blogspot.de/2007/10/custom-modules-with-rome.html)
+3. [ROME Modules source code](https://rometools.jira.com/source/browse/MODULES/trunk/src/main/java/org/rometools/feed/module)
 
